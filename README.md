@@ -1,10 +1,10 @@
 # FinalProject2024
 Final Project for CSCI-1070
-This project uses a heart disease dataset from Kaggle: [https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction](url)
+This project uses a heart failure dataset from Kaggle: [https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction](url)
 The dataset contains 918 observations with 12 recorded attributes (variables).
-The purpose of this project is to use Machine Learning Techniques to predict instances of heart disease with the variables given. 
-Null Hypothesis: The variables are not correlated to heart disease instances in any meaningful way (overall accuracy below 70%)
-Alternate Hypothesis: The variables do have a significant relation to heart disease instances and can predict them fairly well (accuracy above 70%)
+The purpose of this project is to use Machine Learning Techniques to predict instances of heart failure with the variables given. 
+Null Hypothesis: The variables are not correlated to heart failure instances in any meaningful way (overall accuracy below 70%)
+Alternate Hypothesis: The variables do have a significant relation to heart failure instances and can predict them fairly well (accuracy above 70%)
 
 The variables are Age, Sex, Chest Pain Type, Resting Blood Pressure, Cholesterol, Fasting Blood Pressure, Resting Electrocardiogram results, Maximum Heart Rate, Exercise Induced Agina, and Oldpeak, and the ST Slope.
 
