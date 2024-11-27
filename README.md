@@ -16,3 +16,4 @@ After I cleaned the data, I used KNN and Logistical Regression ML models first t
 Since this is a medical dataset, recall is the most significant measurement of effectiveness. It was very high (higher than most of my other datasets) so probably this dataset was relatively straightforward in correlations because simple Logistical regression worked really well.
 
 In conclusion, this project succesfully proved the alternate hypothesis with an overall accuracy of 86% (a roaring success if you ask me).
+Link to Presentation: [https://docs.google.com/presentation/d/1R50fYovxgLy74BUrGt3fpifndTeImPjInfd-jziOuC0/edit?usp=sharing](url)
